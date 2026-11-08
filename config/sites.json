@@ -1,0 +1,222 @@
+{
+  "general": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com"
+    },
+    {
+      "name": "Instagram CDN",
+      "url": "https://scontent.cdninstagram.com"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com"
+    },
+    {
+      "name": "Facebook CDN",
+      "url": "https://static.xx.fbcdn.net"
+    },
+    {
+      "name": "Twitter / X",
+      "url": "https://x.com"
+    },
+    {
+      "name": "Twitter CDN",
+      "url": "https://pbs.twimg.com"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com"
+    },
+    {
+      "name": "Discord CDN",
+      "url": "https://cdn.discordapp.com"
+    },
+    {
+      "name": "Rutracker",
+      "url": "https://rutracker.org"
+    },
+    {
+      "name": "NNM-Club",
+      "url": "https://nnmclub.to"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://open.spotify.com"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com"
+    },
+    {
+      "name": "SoundCloud",
+      "url": "https://soundcloud.com"
+    },
+    {
+      "name": "Vimeo",
+      "url": "https://vimeo.com"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://telegram.org"
+    },
+    {
+      "name": "Telegram Web",
+      "url": "https://web.telegram.org"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://www.twitch.tv"
+    },
+    {
+      "name": "Patreon",
+      "url": "https://www.patreon.com"
+    },
+    {
+      "name": "Notion",
+      "url": "https://www.notion.so"
+    },
+    {
+      "name": "Figma",
+      "url": "https://www.figma.com"
+    },
+    {
+      "name": "Canva",
+      "url": "https://www.canva.com"
+    },
+    {
+      "name": "Docker Hub",
+      "url": "https://hub.docker.com"
+    },
+    {
+      "name": "npm",
+      "url": "https://www.npmjs.com"
+    },
+    {
+      "name": "PyPI",
+      "url": "https://pypi.org"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com"
+    },
+    {
+      "name": "Claude",
+      "url": "https://claude.ai"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com"
+    },
+    {
+      "name": "GitLab",
+      "url": "https://gitlab.com"
+    },
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com"
+    },
+    {
+      "name": "Epic Games",
+      "url": "https://www.epicgames.com"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com"
+    },
+    {
+      "name": "Google",
+      "url": "https://www.google.com"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ru.wikipedia.org"
+    },
+    {
+      "name": "Yandex",
+      "url": "https://ya.ru"
+    },
+    {
+      "name": "Gosuslugi",
+      "url": "https://www.gosuslugi.ru"
+    },
+    {
+      "name": "VK",
+      "url": "https://vk.com"
+    },
+    {
+      "name": "Odnoklassniki",
+      "url": "https://ok.ru"
+    },
+    {
+      "name": "RuTube",
+      "url": "https://rutube.ru"
+    },
+    {
+      "name": "Nalog.ru",
+      "url": "https://lkfl2.nalog.ru"
+    },
+    {
+      "name": "Rutor.info",
+      "url": "https://rutor.info"
+    },
+    {
+      "name": "Kinopoisk",
+      "url": "https://www.kinopoisk.ru"
+    },
+    {
+      "name": "Avito",
+      "url": "https://www.avito.ru"
+    },
+    {
+      "name": "Ozon",
+      "url": "https://www.ozon.ru"
+    },
+    {
+      "name": "Wildberries",
+      "url": "https://www.wildberries.ru"
+    },
+    {
+      "name": "OpenWRT",
+      "url": "https://openwrt.org"
+    },
+    {
+      "name": "Google Play",
+      "url": "https://play.google.com"
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://www.cloudflare.com"
+    },
+    {
+      "name": "Docker",
+      "url": "https://www.docker.com"
+    }
+  ],
+  "youtube": {
+    "name": "YouTube",
+    "domains": [
+      "youtube.com",
+      "www.youtube.com",
+      "youtu.be",
+      "i.ytimg.com",
+      "yt3.ggpht.com",
+      "yt3.googleusercontent.com",
+      "googleapis.com",
+      "youtubei.googleapis.com",
+      "manifest.googlevideo.com"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node / Electron
+node_modules/
+out/
+dist/
+.cache/
+*.log
+
+# Артефакты сборок и черновики
+release/
+*.blockmap
+builder-debug.yml
+notes.md
+
+# Локальные замеры и скрипты запуска под мой Python
+benchmark_results_*.csv
+START_HIDDEN.bat
+START_BENCH.cmd
+run_hidden.vbs
+ЗАПУСК.cmd
+
+# Дубль конфига внутри Electron-приложения (источник — config/sites.json в корне)
+app-react/config/
+
+# Системное
+Thumbs.db
+Desktop.ini
